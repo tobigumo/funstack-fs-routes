@@ -1,11 +1,11 @@
 # funstack-fs-routes
 
-File-based routing package for [FUNSTACK Static](https://static.funstack.work). Takes a module map from Vite's [Glob Import](https://vite.dev/guide/features.html#glob-import) and automatically generates `EntryDefinition` entries based on file naming conventions.
+File-based routing package for [FUNSTACK Static](https://github.com/uhyo/funstack-static) ([website](https://static.funstack.work)). Takes a module map from Vite's [Glob Import](https://vite.dev/guide/features.html#glob-import) and automatically generates `EntryDefinition` entries based on file naming conventions.
 
 ## Install
 
 ```bash
-npm install funstack-fs-routes
+npm install github:tobigumo/funstack-fs-routes
 ```
 
 ## Usage
